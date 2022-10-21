@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **ACI, SDN, Python**
 
-- 📝 I regularly write articles on [gustavoguillen.com/blog](gustavoguillen.com/blog)
+- 📝 I regularly write articles on [https://medium.com/@gusdrawn](https://medium.com/@gusdrawn)
 
-- 💬 Ask me about **Cisco or Juniper from any products**
+- 💬 Ask me about **Networking or Automation**
 
 - 📫 How to reach me **gustavoguillen.com**
 
